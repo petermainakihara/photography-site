@@ -41,3 +41,38 @@ img{
 a:hover{
     text-decoration: underline;
 }
+.login-section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-section h2 {
+    margin-bottom: 15px;
+    color: black;
+    background-color: aqua;
+  }
+  
+  .login-section input {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: cadetblue;
+
+  }
+  
+  .login-section button {
+    background-color: chocolate;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
